@@ -15,3 +15,13 @@
 [Archive.zip](https://github.com/user-attachments/files/19469094/Archive.zip)
 [Сборка.a3d.zip](https://github.com/user-attachments/files/19469096/a3d.zip)
 [Variant_21_Prisposoblenie.pdf](https://github.com/user-attachments/files/19469098/Variant_21_Prisposoblenie.pdf)
+
+
+
+Проект-3:
+
+Механизм храповой 00-000.06.08.08.00
+Механизм храповой является разновидностью зубчатых зацеплений и служит для преобразования поступательного движения цилиндра, во вращательное движение шестерни, насаженной на вал.
+[Archive.zip](https://github.com/user-attachments/files/19536638/Archive.zip)
+[Сборка.a3d.zip](https://github.com/user-attachments/files/19536640/a3d.zip)
+[Variant_8_Mekhanizm_khrapovoy.pdf](https://github.com/user-attachments/files/19536646/Variant_8_Mekhanizm_khrapovoy.pdf)

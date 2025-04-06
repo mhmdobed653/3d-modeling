@@ -25,3 +25,15 @@
 [Archive.zip](https://github.com/user-attachments/files/19536638/Archive.zip)
 [Сборка.a3d.zip](https://github.com/user-attachments/files/19536640/a3d.zip)
 [Variant_8_Mekhanizm_khrapovoy.pdf](https://github.com/user-attachments/files/19536646/Variant_8_Mekhanizm_khrapovoy.pdf)
+
+
+
+Проект-4:
+
+Кондуктор перекидной 00-000.06.01.01.00
+Перекидной кондуктор представляет собой приспособление для сверления отверстий через втулки двух противоположных фланцах детали, устанавливаемой на базу и закрепляемой быстросьемной шайбой и гайкой.
+[Archive.zip](https://github.com/user-attachments/files/19623185/Archive.zip)
+[Сборка.a3d.zip](https://github.com/user-attachments/files/19623189/a3d.zip)
+[Variant_1_Konduktor_perekidnoy.pdf](https://github.com/user-attachments/files/19623193/Variant_1_Konduktor_perekidnoy.pdf)
+
+

@@ -17,5 +17,5 @@
 | **Кондуктор скальчатый**<br>`00-000.06.03.03.00` | Кондуктор скальчатый предназначен для сверления отверстий в деталях на вертикально и горизонтально сверлильных станках. | [детали](https://github.com/user-attachments/files/19721858/Archive.zip)<br>[сборка](https://github.com/user-attachments/files/19721863/a3d.zip)<br>[чертежи](https://github.com/user-attachments/files/19721864/Variant_3_Konduktor_skalchaty.pdf) |
 
 
-'<img width="1662" alt="Screenshot 2025-04-13 at 01 05 13" src="https://github.com/user-attachments/assets/208d3d14-2240-45c8-a81c-88e2c5e1d4fb" />'
-'Рис.1 (**Тиски**<br>00-000.06.05.05.00)'
+<img width="1662" alt="Screenshot 2025-04-13 at 01 05 13" src="https://github.com/user-attachments/assets/208d3d14-2240-45c8-a81c-88e2c5e1d4fb" />
+**Рис.1** (**Тиски** 00-000.06.05.05.00)

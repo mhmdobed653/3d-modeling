@@ -48,3 +48,10 @@
 
 
 
+Проект-6: V3
+
+Кондуктор скальчатый 00-000.06.03.03.00
+Кондуктор скальчатый предназначен для сверления отверстий в деталях на вертикально и горизонтально сверлильных станках.
+[Archive.zip](https://github.com/user-attachments/files/19721858/Archive.zip)
+[сборка.a3d.zip](https://github.com/user-attachments/files/19721863/a3d.zip)
+[Variant_3_Konduktor_skalchaty.pdf](https://github.com/user-attachments/files/19721864/Variant_3_Konduktor_skalchaty.pdf)
